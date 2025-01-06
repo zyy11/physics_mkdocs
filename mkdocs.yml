@@ -1,0 +1,10 @@
+site_name: 最不贴近高考的高中物理课程
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  language: zh
+  palette:
+    scheme: default
+    primary: indigo
+  font:
+    text: Noto Sans Simplified Chinese

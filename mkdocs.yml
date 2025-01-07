@@ -1,5 +1,7 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
 site_name: 最不贴近高考的高中物理课程
-site_url: https://mydomain.org/mysite
+site_url: https://example.com/mysite
 theme:
   name: material
   language: zh
@@ -7,4 +9,8 @@ theme:
     scheme: default
     primary: indigo
   font:
-    text: Noto Sans Simplified Chinese
+    text: Noto Sans SC
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

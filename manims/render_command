@@ -1,0 +1,7 @@
+manim -pql py文件 场景名
+
+-p：输出后播放
+-q：质量（ql低 qm中 qh高）
+-s：仅最后一帧
+
+--format gif
